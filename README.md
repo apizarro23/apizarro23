@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=apizarro23&icon=5&color=6)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=apizarro23&icon=5&color=6)](https://visitcount.itsvg.in) -->
 
 # 👋 Hi, I’m Antony Pizarro
 
