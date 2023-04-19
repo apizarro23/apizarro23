@@ -15,8 +15,7 @@ Hobbies:
 <br>🍿  Film
 <br>
 🎧  Music
-<br>
-🏋️‍♂️  Weightlifting
+
 
 
 ## 🌐 Socials:
