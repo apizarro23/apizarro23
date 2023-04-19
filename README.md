@@ -11,10 +11,19 @@
 
 Hobbies:
 <br>
-🎮  Video Games
-<br>🍿  Film
+🏂  Snowboarding
+<br>
+📸  Photography
 <br>
 🎧  Music
+<br>
+🎮  Video Games
+<br>
+🍿  Film
+<br>
+🥾  Hiking
+
+
 
 
 
